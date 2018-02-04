@@ -2,8 +2,6 @@
 Little program to crawl some ToR pages and demonstrate the usage of the Stem API to
 connect ToR from within Python 3.
 
-This is the main script. The crawler is implemented in ./crawler.py
-
 Made by [ **Foo-Manroot** ](https://foo-manroot.github.io/)
 Last change on **Feb 04, 2018**
 
