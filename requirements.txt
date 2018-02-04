@@ -1,0 +1,5 @@
+PySocks		>= 1.6.8
+stem		>= 1.6.0
+beautifulsoup4	>= 4.6.0
+pycurl		>= 7.43.0.1
+html5lib	>= 1.0.1
